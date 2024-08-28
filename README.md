@@ -45,6 +45,7 @@ ORDER BY t.TRS_FROM_ACCOUNT, t.TRS_DATE;
 - nest js
 - react + vite
 - postgresql
+- nginx
 - docker and docker compose for development (note: for avoiding meme "it's works in my machine" hehe)
 
 
